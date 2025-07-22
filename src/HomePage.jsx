@@ -20,6 +20,7 @@ export default function HomePage() {
               alt="Pfeiffer Mobilberatung Logo"
               className="h-[90px] w-auto object-contain"
               loading="eager"
+              
             />
           </div>
           <nav className="space-x-8 text-base">
